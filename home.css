@@ -80,3 +80,7 @@
 .pad {
     padding-top: 30%;
 }
+
+.padding-large {
+    padding: 12px 24px
+}
